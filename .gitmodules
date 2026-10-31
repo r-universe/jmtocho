@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/jmtocho/jmtocho.r-universe.dev
 	branch = HEAD
+[submodule "maplore"]
+	path = maplore
+	url = https://github.com/JMTocho/maplore
